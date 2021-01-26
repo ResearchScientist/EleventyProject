@@ -1,0 +1,20 @@
+[
+    {
+        "id": "bb12345",
+        "title": "Supercat Returns",
+        "tagline": "meow",
+        "poster": "img1.png"
+    },
+    {
+        "id": "cc12345",
+        "title": "WonderCat",
+        "tagline": "Amazonian",
+        "poster": "img2.png"
+    },
+    {
+        "id": "dd12345",
+        "title": "SpiderCat",
+        "tagline": "Into the Spiderverse",
+        "poster": "img3.png"
+    }
+]
