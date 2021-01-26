@@ -1,0 +1,16 @@
+{
+  "name": "EleventyProject",
+  "version": "1.0.0",
+  "description": "eleventy serverless project",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Research Scientist",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
