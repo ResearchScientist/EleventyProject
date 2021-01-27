@@ -24,7 +24,7 @@
   </main>
   <script>
     async function initialize() {
-        const movies = await fetch('./functions/movies.js')
+        const movies = await fetch('../functions/movies.js')
         .then((response) => response.json());
         const container = document.querySelector('.movies');
         const template = document.querySelector('#movie-template');
