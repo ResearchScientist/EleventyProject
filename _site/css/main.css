@@ -1,0 +1,19 @@
+html,body,main,section,div {
+  margin: 0;
+  padding: 0;
+}
+
+body, main {
+  overflow: hidden;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: pink;
+}
+
+h1 {
+  width: 100vw;
+  text-align: center;
+}
