@@ -1,4 +1,3 @@
 [build]
-  base = "ResearchScientist/EleventyProject/"
   publish = "_site/"
   functions = "functions/"
