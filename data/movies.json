@@ -3,18 +3,18 @@
         "id": "bb12345",
         "title": "Supercat Returns",
         "tagline": "meow",
-        "poster": "img1.png"
+        "poster": "https://rubenasanchez.com/Images/Learn/Infographics/pyramidal-neuron.svg"
     },
     {
         "id": "cc12345",
         "title": "WonderCat",
         "tagline": "Amazonian",
-        "poster": "img2.png"
+        "poster": "https://rubenasanchez.com/Images/Learn/Infographics/motor-neuron.svg"
     },
     {
         "id": "dd12345",
         "title": "SpiderCat",
         "tagline": "Into the Spiderverse",
-        "poster": "img3.png"
+        "poster": "https://rubenasanchez.com/Images/Learn/Infographics/purkinje-cell.svg"
     }
 ]
