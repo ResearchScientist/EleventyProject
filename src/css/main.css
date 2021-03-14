@@ -17,3 +17,7 @@ h1 {
   width: 100vw;
   text-align: center;
 }
+
+img {
+    height: 20vh;
+}
